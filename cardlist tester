@@ -1,0 +1,1353 @@
+{
+  "DBST-1-001": {
+    "id": "DBST-1-001",
+    "name": "Son Goku - O Despertar do Super Saiyajin",
+    "type": "Unidade",
+    "cost": 8,
+    "traits": ["Saiyajin", "Coração Puro"],
+    "tags": ["Luz", "Alien", "Artista Marcial", "Guerreiro Z", "Super Saiyajin"],
+    "keywords": ["RAID", "Rush"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Son Goku - O Despertar do Super Saiyajin",
+        "type": "Unidade",
+        "cost": 8,
+        "image": "https://cdn.uploaded.photo/2026/08/20/DBST-1-001.png"
+      }
+    }
+  },
+    "DBST-1-001-Arte-Alternativa": {
+    "id": "DBST-1-001-Arte-Alternativa",
+    "name": "Son Goku - O Despertar do Super Saiyajin",
+    "type": "Unidade",
+    "cost": 8,
+    "traits": ["Saiyajin", "Coração Puro"],
+    "tags": ["Luz", "Alien", "Artista Marcial", "Guerreiro Z", "Super Saiyajin"],
+    "keywords": ["RAID", "Rush"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Ultra Raro",
+    "face": {
+      "front": {
+        "name": "Son Goku - O Despertar do Super Saiyajin",
+        "type": "Unidade",
+        "cost": 8,
+        "image": "https://i.pinimg.com/736x/9d/85/5f/9d855f723a74b614a1378342de1e81b2.jpg"
+      }
+    }
+  },
+  "DBST-1-002": {
+    "id": "DBST-1-002",
+    "name": "Son Goku - Terror de Freeza",
+    "type": "Unidade",
+    "cost": 7,
+    "traits": ["Saiyajin", "Coração Puro"],
+    "tags": ["Luz", "Alien", "Artista Marcial", "Guerreiro Z", "Super Saiyajin"],
+    "keywords": ["RAID", "Impacto Nulo"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Son Goku - Terror de Freeza",
+        "type": "Unidade",
+        "cost": 7,
+        "image": "https://cdn.uploaded.photo/2026/08/20/DBST-1-002.png"
+      }
+    }
+  },
+  "DBST-1-003": {
+    "id": "DBST-1-003",
+    "name": "Kuririn - Em busca das esferas em Namek",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Artista Marcial", "Guerreiro Z"],
+    "keywords": ["Despertar"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kuririn - Em busca das esferas em Namek",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://cdn.uploaded.photo/2026/08/20/DBST-1-003.png"
+      }
+    }
+  },
+  "DBST-1-004": {
+    "id": "DBST-1-004",
+    "name": "Kuririn - Luz ofuscante",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Artista Marcial", "Guerreiro Z"],
+    "keywords": [],
+    "classe": "Atirador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kuririn - Luz ofuscante",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://i.pinimg.com/736x/5d/9a/60/5d9a60aa69814d72265bf13ee3ec3c5f.jpg"
+      }
+    }
+  },
+  "DBST-1-005": {
+    "id": "DBST-1-005",
+    "name": "Son Gohan - Em busca das esferas em Namek",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Híbrido", "Coração Puro"],
+    "tags": ["Artista Marcial", "Guerreiro Z"],
+    "keywords": ["TRIGGER"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Son Gohan - Em busca das esferas em Namek",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Son-Gohan-Em-busca-das-esferas-em-Namek.png"
+      }
+    }
+  },
+  "DBST-1-006": {
+    "id": "DBST-1-006",
+    "name": "Piccolo - Assimilação com Nail",
+    "type": "Unidade",
+    "cost": 3,
+    "traits": ["Namekuseijin", "Bom"],
+    "tags": ["Alien", "Artista Marcial", "Guerreiro Z"],
+    "keywords": ["Blocker"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Piccolo - Assimilação com Nail",
+        "type": "Unidade",
+        "cost": 3,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Piccolo-Assimilacao-com-Nail.png"
+      }
+    }
+  },
+  "DBST-1-007": {
+    "id": "DBST-1-007",
+    "name": "Vegeta - Ainda em busca da imortalidade",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Saiyajin", "Mal"],
+    "tags": ["Alien"],
+    "keywords": [],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Vegeta - Ainda em busca da imortalidade",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Vegeta-Ainda-em-busca-da-imortalidade.png"
+      }
+    }
+  },
+  "DBST-1-008": {
+    "id": "DBST-1-008",
+    "name": "Vegeta - Último pedido do príncipe",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Saiyajin", "Mal"],
+    "tags": ["Alien"],
+    "keywords": [],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Vegeta - Último pedido do príncipe",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Vegeta-Ultimo-pedido-do-principe.png"
+      }
+    }
+  },
+  "DBST-1-009": {
+    "id": "DBST-1-009",
+    "name": "Son Gohan - Fúria Oculta vaza novamente",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Híbrido", "Coração Puro"],
+    "tags": ["Artista Marcial", "Guerreiro Z"],
+    "keywords": ["Rush", "TRIGGER", "Despertar"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Son Gohan - Fúria Oculta vaza novamente",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/20/DBST-1-009.png"
+      }
+    }
+  },
+  "DBST-1-010": {
+    "id": "DBST-1-010",
+    "name": "Son Goku - Ao caminho de Namek",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Saiyajin", "Coração Puro"],
+    "tags": ["Alien", "Artista Marcial", "Guerreiro Z"],
+    "keywords": [],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Son Goku - Ao caminho de Namek",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Son-Goku-Ao-caminho-de-Namek.png"
+      }
+    }
+  },
+  "DBST-1-011": {
+    "id": "DBST-1-011",
+    "name": "Son Goku - Esperança da raça Saiyajin",
+    "type": "Unidade",
+    "cost": 4,
+    "traits": ["Saiyajin", "Coração Puro"],
+    "tags": ["Alien", "Artista Marcial", "Guerreiro Z"],
+    "keywords": ["Lock-On", "TRIGGER"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Son Goku - Esperança da raça Saiyajin",
+        "type": "Unidade",
+        "cost": 4,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Son-Goku-Esperanca-da-raca-Saiyajin.png"
+      }
+    }
+  },
+  "DBST-1-012": {
+    "id": "DBST-1-012",
+    "name": "Son Goku - Resistência Bruta",
+    "type": "Unidade",
+    "cost": 4,
+    "traits": ["Saiyajin", "Coração Puro"],
+    "tags": ["Alien", "Artista Marcial", "Guerreiro Z"],
+    "keywords": [],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Son Goku - Resistência Bruta",
+        "type": "Unidade",
+        "cost": 4,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Son-Goku-Resistencia-bruta.png"
+      }
+    }
+  },
+  "DBST-1-013": {
+    "id": "DBST-1-013",
+    "name": "Son Goku - Semblante de um Super Saiyajin",
+    "type": "Unidade",
+    "cost": 5,
+    "traits": ["Saiyajin", "Coração Puro"],
+    "tags": ["Luz", "Alien", "Artista Marcial", "Guerreiro Z", "Falso Super Saiyajin"],
+    "keywords": ["Rush", "TRIGGER"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Son Goku - Semblante de um Super Saiyajin",
+        "type": "Unidade",
+        "cost": 5,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Son-Goku-Semblante-de-um-Super-Saiyajin.png"
+      }
+    }
+  },
+  "DBST-1-014": {
+    "id": "DBST-1-014",
+    "name": "Bulma Briefs - Viagem para Namek",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Gênio", "Cientista"],
+    "keywords": ["Retaguarda", "TRIGGER"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Bulma Briefs - Viagem para Namek",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Bulma-Briefs-Viagem-para-Namek.png"
+      }
+    }
+  },
+  "DBST-1-015": {
+    "id": "DBST-1-015",
+    "name": "Son Goku - Últimas forças contra Freeza",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Saiyajin", "Coração Puro"],
+    "tags": ["Alien", "Artista Marcial", "Guerreiro Z"],
+    "keywords": ["TRIGGER", "Despertar"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Son Goku - Últimas forças contra Freeza",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/18/Son-Goku-ultimas-forcas-contra-Freeza.png"
+      }
+    }
+  },
+  "DBST-1-016": {
+    "id": "DBST-1-016",
+    "name": "Dende - Pequeno namekuseijin",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Namekuseijin", "Coração Puro"],
+    "tags": ["Alien"],
+    "keywords": ["Retaguarda"],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Dende - Pequeno namekuseijin",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Dende-Pequeno-namekuseijin.png"
+      }
+    }
+  },
+  "DBST-1-017": {
+    "id": "DBST-1-017",
+    "name": "Grande Patriarca - Grande namekuseijin sábio",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Namekuseijin", "Coração Puro"],
+    "tags": ["Alien"],
+    "keywords": [],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Grande Patriarca - Grande namekuseijin sábio",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/17/Grande-Patriarca-Grande-namekuseijin-sabio.png"
+      }
+    }
+  },
+  "DBST-1-018": {
+    "id": "DBST-1-018",
+    "name": "Genki Dama - Todas as forças dos seres vivos",
+    "type": "Evento",
+    "cost": 6,
+    "traits": [],
+    "tags": ["Técnica", "Son Goku", "Sr.Kaioh"],
+    "keywords": [],
+    "universo": "Dragon Ball",
+    "rarity": "Incomum",
+    "face": {
+      "front": {
+        "name": "Genki Dama - Todas as forças dos seres vivos",
+        "type": "Evento",
+        "cost": 6,
+        "image": "https://cdn.uploaded.photo/2026/08/22/JKIS-1-018-errata.png"
+      }
+    }
+  },
+  "DBST-1-019": {
+    "id": "DBST-1-019",
+    "name": "Kaio-Ken!",
+    "type": "Evento",
+    "cost": 2,
+    "traits": ["Relâmpago"],
+    "tags": ["Técnica", "Son Goku", "Sr.Kaioh"],
+    "keywords": [],
+    "universo": "Dragon Ball",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kaio-Ken!",
+        "type": "Evento",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/22/JKIS-1-019-errata.png"
+      }
+    }
+  },
+  "DBST-1-020": {
+    "id": "DBST-1-020",
+    "name": "Esferas do Dragão",
+    "type": "Evento",
+    "cost": 3,
+    "traits": ["Contínuo"],
+    "tags": ["Namek"],
+    "keywords": [],
+    "universo": "Dragon Ball",
+    "rarity": "Incomum",
+    "face": {
+      "front": {
+        "name": "Esferas do Dragão",
+        "type": "Evento",
+        "cost": 3,
+        "image": "https://cdn.uploaded.photo/2026/08/22/DBST-1-020-errata.png"
+      }
+    }
+  },
+  "DBST-1-021": {
+    "id": "DBST-1-021",
+    "name": "Porunga - Diga os seus 3 desejos",
+    "type": "Unidade Especial",
+    "cost": 0,
+    "traits": ["Dragão"],
+    "tags": ["Celestial"],
+    "keywords": [],
+    "classe": "Lutador",
+    "universo": "Dragon Ball",
+    "rarity": "Raro",
+    "face": {
+      "front": {
+        "name": "Porunga - Diga os seus 3 desejos",
+        "type": "Unidade Especial",
+        "cost": "X",
+        "image": "https://cdn.uploaded.photo/2026/08/22/DBST-1-021-errata.png"
+      }
+    }
+  },
+  "JKIS-1-001": {
+    "id": "JKIS-1-001",
+    "name": "Itadori Yuji - Somos Iguais",
+    "type": "Unidade",
+    "cost": 6,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Feiticeiro Jujutsu", "Tokyo", "Receptáculo"],
+    "keywords": ["RAID", "Rush"],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Itadori Yuji - Somos Iguais",
+        "type": "Unidade",
+        "cost": 6,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Itadori-Yuji---Somos-Iguais.png"
+      }
+    }
+  },
+    "JKIS-1-001-Arte-Alternativa": {
+    "id": "JKIS-1-001-Arte-Alternativa",
+    "name": "Itadori Yuji - Somos Iguais",
+    "type": "Unidade",
+    "cost": 6,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Feiticeiro Jujutsu", "Tokyo", "Receptáculo"],
+    "keywords": ["RAID", "Rush"],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Itadori Yuji - Somos Iguais",
+        "type": "Unidade",
+        "cost": 6,
+        "image": "https://i.pinimg.com/736x/5a/ff/7f/5aff7f64cfe8ccf9332d32d7aeec0e24.jpg"
+      }
+    }
+  },
+  "JKIS-1-002": {
+    "id": "JKIS-1-002",
+    "name": "Aoi Todo - My Brother",
+    "type": "Unidade",
+    "cost": 6,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Feiticeiro Jujutsu", "Kyoto"],
+    "keywords": ["RAID"],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Aoi Todo - My Brother",
+        "type": "Unidade",
+        "cost": 6,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Aoi-Todo---My-Brother.png"
+      }
+    }
+  },
+  "JKIS-1-003": {
+    "id": "JKIS-1-003",
+    "name": "Itadori Yuji - Calouro",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Feiticeiro Jujutsu", "Tokyo", "Receptáculo"],
+    "keywords": ["TRIGGER"],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Itadori Yuji - Calouro",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Itadori-Yuji---Calouro.png"
+      }
+    }
+  },
+ "JKIS-1-004": {
+    "id": "JKIS-1-004",
+    "name": "Itadori Yuji - Primeira maldição herdada",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": [],
+    "keywords": [],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Itadori Yuji - Primeira maldição herdada",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Itadori-Yuji---Primeira-maldicao-herdada.png"
+      }
+    }
+  },
+  "JKIS-1-005": {
+    "id": "JKIS-1-005",
+    "name": "Itadori Yuji - Punhos Divergentes",
+    "type": "Unidade",
+    "cost": 3,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Feiticeiro Jujutsu", "Tokyo", "Receptáculo"],
+    "keywords": [],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Itadori Yuji - Punhos Divergentes",
+        "type": "Unidade",
+        "cost": 3,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Itadori-Yuji---Primeira-maldicao-herdada-2.png"
+      }
+    }
+  },
+  "JKIS-1-006": {
+    "id": "JKIS-1-006",
+    "name": "Itadori Yuji - Primeira missão",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Feiticeiro Jujutsu", "Tokyo", "Receptáculo"],
+    "keywords": ["TRIGGER"],
+    "classe": "Gladiador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Itadori Yuji - Primeira missão",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Itadori-Yuji---Primeira-missao.png"
+      }
+    }
+  },
+  "JKIS-1-007": {
+    "id": "JKIS-1-007",
+    "name": "Aoi Todo - Treinamento inesperado",
+    "type": "Unidade",
+    "cost": 4,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Feiticeiro Jujutsu", "Kyoto"],
+    "keywords": ["Blocker"],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Aoi Todo - Treinamento inesperado",
+        "type": "Unidade",
+        "cost": 4,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Aoi-Todo---Treinamento-inesperado.png"
+      }
+    }
+  },
+"JKIS-1-008": {
+    "id": "JKIS-1-008",
+    "name": "Kento Nanami - Hora extra",
+    "type": "Unidade",
+    "cost": 5,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Feiticeiro Jujutsu", "Tokyo"],
+    "keywords": ["TRIGGER"],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kento Nanami - Hora extra",
+        "type": "Unidade",
+        "cost": 5,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Kento-Nanami---Hora-extra.png"
+      }
+    }
+  },
+  "JKIS-1-009": {
+    "id": "JKIS-1-009",
+    "name": "Aoi Todo - Bater de palmas",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Feiticeiro Jujutsu", "Kyoto"],
+    "keywords": [],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Aoi Todo - Bater de palmas",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/21/JKIS-1-009.png"
+      }
+    }
+  },
+  "JKIS-1-010": {
+    "id": "JKIS-1-010",
+    "name": "Aoi Todo - Troca amaldiçoada",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Feiticeiro Jujutsu", "Kyoto"],
+    "keywords": [],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Aoi Todo - Troca amaldiçoada",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Aoi-Todo---Troca-amaldicoada.png"
+      }
+    }
+  },
+  "JKIS-1-011": {
+    "id": "JKIS-1-011",
+    "name": "Nobara Kugisaki - Ressonância",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Feiticeiro Jujutsu", "Tokyo"],
+    "keywords": [],
+    "classe": "Atirador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Nobara Kugisaki - Ressonância",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/20/JKIS-1-011.png"
+      }
+    }
+  },
+  "JKIS-1-012": {
+    "id": "JKIS-1-012",
+    "name": "Nobara Kugisaki - Voodoo",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Feiticeiro Jujutsu", "Tokyo"],
+    "keywords": ["Retaguarda"],
+    "classe": "Atirador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Nobara Kugisaki - Voodoo",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Nobara-Kugisaki---Voodoo-correcao.png"
+      }
+    }
+  },
+    "JKIS-1-013": {
+    "id": "JKIS-1-013",
+    "name": "Ryomei Sukuna - Controle limitado",
+    "type": "Unidade",
+    "cost": 5,
+    "traits": ["Humano", "Pura Maldade"],
+    "tags": ["Mestre de Maldições", "Grau Especial", "Reencarnado"],
+    "keywords": ["TRIGGER", "Rush"],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Ryomei Sukuna - Controle limitado",
+        "type": "Unidade",
+        "cost": 5,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Ryomei-Sukuna---Controle-limitado.png"
+      }
+    }
+  },
+   "JKIS-1-014": {
+    "id": "JKIS-1-014",
+    "name": "Ryomei Sukuna - O rei retornou",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Humano", "Pura Maldade"],
+    "tags": ["Mestre de Maldições", "Grau Especial", "Reencarnado"],
+    "keywords": ["Impacto", "Despertar"],
+    "classe": "Lutador",
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Ryomei Sukuna - O rei retornou",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Ryomei-Sukuna---O-rei-retornou.png"
+      }
+    }
+  },
+  "JKIS-1-015": {
+    "id": "JKIS-1-015",
+    "name": "My Besto Friendo!",
+    "type": "Evento",
+    "cost": 2,
+    "traits": [],
+    "tags": ["Ação", "Itadori Yuji", "Aoi Todo"],
+    "keywords": [],
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Incomum",
+    "face": {
+      "front": {
+        "name": "My Besto Friendo!",
+        "type": "Evento",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/19/My-Besto-Friendo.png"
+      }
+    }
+  },
+     "JKIS-1-016": {
+    "id": "JKIS-1-016",
+    "name": "Satoru Gojo - Sensei alto astral",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Humano", "Bom"],
+    "tags": ["Feiticeiro Jujutsu", "Grau Especial"],
+    "keywords": ["Blocker", "Impacto Nulo"],
+    "classe": ["Lutador"],
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Satoru Gojo - Sensei alto astral",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://cdn.uploaded.photo/2026/08/19/Satoru-Goju---Sensei-alto-astral.png"
+      }
+    }
+  },
+       "JKIS-1-017": {
+    "id": "JKIS-1-017",
+    "name": "Desmantelar Restringido",
+    "type": "Evento",
+    "cost": 6,
+    "traits": [],
+    "tags": ["Técnica", "Ryomei Sukuna"],
+    "keywords": [],
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Incomum",
+    "face": {
+      "front": {
+        "name": "Desmantelar Restringido",
+        "type": "Evento",
+        "cost": 6,
+        "image": "https://cdn.uploaded.photo/2026/08/22/JKIS-1-017.png"
+      }
+    }
+  },
+      "JKIS-1-018": {
+    "id": "JKIS-1-018",
+    "name": "Ryomei Sukuna - Reinado de terror",
+    "type": "Unidade",
+    "cost": 7,
+    "traits": ["Humano", "Pura Maldade"],
+    "tags": ["Mestre de Maldições", "Grau Especial", "Reencarnado"],
+    "keywords": ["RAID"],
+    "classe": ["Lutador"],
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Ryomei Sukuna - Reinado de terror",
+        "type": "Unidade",
+        "cost": 7,
+        "image": "https://i.pinimg.com/736x/0f/93/66/0f936681cb927e2cd56ce98201d77357.jpg"
+      }
+    }
+  },
+     "JKIS-1-019": {
+    "id": "JKIS-1-019",
+    "name": "Ryomei Sukuna - Shibuya em cinzas",
+    "type": "Unidade",
+    "cost": 8,
+    "traits": ["Humano", "Pura Maldade"],
+    "tags": ["Piro", "Mestre de Maldições", "Grau Especial", "Reencarnado"],
+    "keywords": ["RAID", "Impacto"],
+    "classe": ["Lutador"],
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Ryomei Sukuna - Shibuya em cinzas",
+        "type": "Unidade",
+        "cost": 8,
+        "image": "https://i.pinimg.com/736x/de/12/04/de12048cccc27b580f1fa6b7c3fce458.jpg"
+      }
+    }
+  },
+       "JKIS-1-020": {
+    "id": "JKIS-1-020",
+    "name": "Dedo de Sukuna",
+    "type": "Evento",
+    "cost": 2,
+    "traits": [],
+    "tags": ["Objeto", "Objeto Amaldiçoado"],
+    "keywords": ["Retaguarda"],
+    "universo": "Jujutsu Kaisen",
+    "rarity": "Incomum",
+    "face": {
+      "front": {
+        "name": "Dedo de Sukuna",
+        "type": "Evento",
+        "cost": 2,
+        "image": "https://i.pinimg.com/736x/9f/11/c7/9f11c7ff65c6044be9fda25f4f4e7fbe.jpg"
+      }
+    }
+  },
+         "KRAW-001": {
+    "id": "KRAW-001",
+    "name": "Kuuga - Herói mascarado",
+    "type": "Unidade",
+    "cost": 6,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Piro", "Herói", "Kamen Rider", "Mighty Form", "Yusuke Godai"],
+    "keywords": ["RAID", "TRIGGER"],
+    "universo": "Kamen Rider",
+    "classe": ["Lutador"],
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Kuuga - Herói mascarado",
+        "type": "Unidade",
+        "cost": 6,
+        "image": "https://i.pinimg.com/736x/cb/18/91/cb1891b8135f15c231548535ab00c750.jpg"
+      }
+    }
+  },
+        "KRAW-002": {
+    "id": "KRAW-002",
+    "name": "Kuuga - Dragão azul",
+    "type": "Unidade",
+    "cost": 5,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Aqua", "Herói", "Kamen Rider", "Dragon Form", "Yusuke Godai"],
+    "keywords": ["RAID", "Alcance"],
+    "universo": "Kamen Rider",
+    "classe": ["Gladiador"],
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Kuuga - Dragão azul",
+        "type": "Unidade",
+        "cost": 5,
+        "image": "https://i.pinimg.com/736x/8a/14/d7/8a14d774502525c75abb29d453021c3e.jpg"
+      }
+    }
+  },
+       "KRAW-003": {
+    "id": "KRAW-003",
+    "name": "Kuuga - Sentidos aguçados",
+    "type": "Unidade",
+    "cost": 5,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Vento", "Herói", "Kamen Rider", "Pegasus Form", "Yusuke Godai"],
+    "keywords": ["RAID", "Lock-On"],
+    "universo": "Kamen Rider",
+    "classe": ["Atirador"],
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Kuuga - Sentidos aguçados",
+        "type": "Unidade",
+        "cost": 5,
+        "image": "https://i.pinimg.com/736x/6b/1d/3e/6b1d3e8886d0f6933e5c56ec5e67c9ed.jpg"
+      }
+    }
+  },
+      "KRAW-004": {
+    "id": "KRAW-004",
+    "name": "Kuuga - Imparável",
+    "type": "Unidade",
+    "cost": 6,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Terra", "Herói", "Kamen Rider", "Titan Form", "Yusuke Godai"],
+    "keywords": ["RAID", "Counter","Impacto Nulo"],
+    "universo": "Kamen Rider",
+    "classe": ["Gladiador"],
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Kuuga - Imparável",
+        "type": "Unidade",
+        "cost": 6,
+        "image": "https://i.pinimg.com/736x/ff/5e/af/ff5eaf7ad0d80c086aca3beec475e95c.jpg"
+      }
+    }
+  },
+     "KRAW-005": {
+    "id": "KRAW-005",
+    "name": "Yusuke Godai - Herói sorridente",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Herói"],
+    "keywords": ["TRIGGER"],
+    "universo": "Kamen Rider",
+    "classe": ["Lutador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Yusuke Godai - Herói sorridente",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://i.pinimg.com/736x/28/5a/6d/285a6df725800108094da49cb9b707e8.jpg"
+      }
+    }
+  },
+    "KRAW-006": {
+    "id": "KRAW-006",
+    "name": "Yusuke Godai - Guerreiro com poder ancestral",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Herói"],
+    "keywords": [],
+    "universo": "Kamen Rider",
+    "classe": ["Lutador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Yusuke Godai - Guerreiro com poder ancestral",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://i.pinimg.com/736x/bb/29/a7/bb29a733f650904a0928f21597b81635.jpg"
+      }
+    }
+  },
+   "KRAW-007": {
+    "id": "KRAW-007",
+    "name": "Kaoru Ichijo - Entrega de equipamento",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Herói", "Policial"],
+    "keywords": [],
+    "universo": "Kamen Rider",
+    "classe": ["Lutador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kaoru Ichijo - Entrega de equipamento",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://i.pinimg.com/736x/59/af/51/59af5117d409fdfa396cb68357017d14.jpg"
+      }
+    }
+  },
+  "KRAW-008": {
+    "id": "KRAW-008",
+    "name": "Kuuga - Ressurgimento do guerreiro ancestral",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Herói", "Kamen Rider","Growing Form","Yusuke Godai"],
+    "keywords": ["TRIGGER"],
+    "universo": "Kamen Rider",
+    "classe": ["Lutador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kuuga - Ressurgimento do guerreiro ancestral",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://i.pinimg.com/736x/08/c4/44/08c444bde3ad924cc3c5b9ea718e40ae.jpg"
+      }
+    }
+  },
+  "KRAW-009": {
+    "id": "KRAW-009",
+    "name": "Kuuga - Forma de vida não identificada Nº2",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Herói", "Kamen Rider","Growing Form","Yusuke Godai"],
+    "keywords": [],
+    "universo": "Kamen Rider",
+    "classe": ["Lutador"],
+    "rarity": "Incomum",
+    "face": {
+      "front": {
+        "name": "Kuuga - Forma de vida não identificada Nº2",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://i.pinimg.com/736x/2e/5a/78/2e5a78653f739e67fc1f9a8fff7d7372.jpg"
+      }
+    }
+  },
+  "KRAW-010": {
+    "id": "KRAW-010",
+    "name": "Kuuga - Golpeando o mal com a chama",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Piro","Herói", "Kamen Rider","Mighty Form","Yusuke Godai"],
+    "keywords": ["TRIGGER"],
+    "universo": "Kamen Rider",
+    "classe": ["Lutador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kuuga - Golpeando o mal com a chama",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://i.pinimg.com/736x/30/07/4e/30074e1c62e4e64568f2631831814c78.jpg"
+      }
+    }
+  },
+  "KRAW-011": {
+    "id": "KRAW-011",
+    "name": "Rising Kuuga - Energizado",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Piro","Herói", "Kamen Rider","Mighty Form","Yusuke Godai"],
+    "keywords": ["Despertar"],
+    "universo": "Kamen Rider",
+    "classe": ["Lutador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Rising Kuuga - Energizado",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://i.pinimg.com/736x/2a/6a/21/2a6a2199454b3c99150a957cf0beeabd.jpg"
+      }
+    }
+  },
+  "KRAW-012": {
+    "id": "KRAW-012",
+    "name": "Kuuga - Vestido de fluidez",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Aqua","Herói", "Kamen Rider","Dragon Form","Yusuke Godai"],
+    "keywords": ["Rush"],
+    "universo": "Kamen Rider",
+    "classe": ["Gladiador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kuuga - Vestido de fluidez",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://i.pinimg.com/736x/aa/2c/74/aa2c7492e90a4e004e432ef65479751c.jpg"
+      }
+    }
+  },
+   "KRAW-013": {
+    "id": "KRAW-013",
+    "name": "Rising Kuuga - Marés agitadas",
+    "type": "Unidade",
+    "cost": 3,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Aqua","Herói", "Kamen Rider","Dragon Form","Yusuke Godai"],
+    "keywords": ["Impacto"],
+    "universo": "Kamen Rider",
+    "classe": ["Gladiador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Rising Kuuga - Marés agitadas",
+        "type": "Unidade",
+        "cost": 3,
+        "image": "https://i.pinimg.com/736x/16/3b/1d/163b1d0d4313e1e7ac9389b037d9ecf8.jpg"
+      }
+    }
+  },
+  "KRAW-014": {
+    "id": "KRAW-014",
+    "name": "Kuuga - Cortando o mal pelo vento",
+    "type": "Unidade",
+    "cost": 2,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Vento","Herói", "Kamen Rider","Pegasus Form","Yusuke Godai"],
+    "keywords": [],
+    "universo": "Kamen Rider",
+    "classe": ["Atirador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kuuga - Cortando o mal pelo vento",
+        "type": "Unidade",
+        "cost": 2,
+        "image": "https://i.pinimg.com/736x/7a/50/7c/7a507c694d05340091a6e16213b74add.jpg"
+      }
+    }
+  },
+   "KRAW-015": {
+    "id": "KRAW-015",
+    "name": "Rising Kuuga - Vendaval crítico",
+    "type": "Unidade",
+    "cost": 3,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Vento","Herói", "Kamen Rider","Pegasus Form","Yusuke Godai"],
+    "keywords": ["TRIGGER"],
+    "universo": "Kamen Rider",
+    "classe": ["Atirador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Rising Kuuga - Vendaval crítico",
+        "type": "Unidade",
+        "cost": 3,
+        "image": "https://i.pinimg.com/736x/fd/66/ec/fd66ec82b20199e96883412914506d86.jpg"
+      }
+    }
+  },
+  "KRAW-016": {
+    "id": "KRAW-016",
+    "name": "Kuuga - Armadura vestida e cortando o mal",
+    "type": "Unidade",
+    "cost": 3,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Terra","Herói", "Kamen Rider","Titan Form","Yusuke Godai"],
+    "keywords": ["Blocker","Impacto Nulo"],
+    "universo": "Kamen Rider",
+    "classe": ["Gladiador"],
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kuuga - Armadura vestida e cortando o mal",
+        "type": "Unidade",
+        "cost": 3,
+        "image": "https://i.pinimg.com/736x/4e/53/51/4e5351472c842942fa7a87d24dea9d41.jpg"
+      }
+    }
+  },
+  "KRAW-017": {
+    "id": "KRAW-017",
+    "name": "Rising Kuuga - Brilho da lâmina dourada",
+    "type": "Unidade",
+    "cost": 4,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Terra","Herói", "Kamen Rider","Titan Form","Yusuke Godai"],
+    "keywords": ["Impacto","Impacto Nulo"],
+    "universo": "Kamen Rider",
+    "classe": ["Gladiador"],
+    "rarity": "Incomum",
+    "face": {
+      "front": {
+        "name": "Rising Kuuga - Brilho da lâmina dourada",
+        "type": "Unidade",
+        "cost": 4,
+        "image": "https://i.pinimg.com/736x/e5/75/bf/e575bf585ab8af6ba7a399ae56f3825c.jpg"
+      }
+    }
+  },
+  "KRAW-018": {
+    "id": "KRAW-018",
+    "name": "Fúria do Herói",
+    "type": "Evento",
+    "cost": 2,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Ação","Kamen Rider","Kuuga","Yusuke Godai"],
+    "keywords": [],
+    "universo": "Kamen Rider",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Fúria do Herói",
+        "type": "Evento",
+        "cost": 2,
+        "image": "https://i.pinimg.com/736x/9d/6d/6a/9d6d6a5072fe98dc43314c35d238bbda.jpg"
+      }
+    }
+  },
+    "KRAW-019": {
+    "id": "KRAW-019",
+    "name": "Trychaser 2000",
+    "type": "Evento",
+    "cost": 2,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Veículo","Rider Machine"],
+    "keywords": [],
+    "universo": "Kamen Rider",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Trychaser 2000",
+        "type": "Evento",
+        "cost": 2,
+        "image": "https://i.pinimg.com/736x/d6/b9/e9/d6b9e9a595a3900ddffa0cb230661708.jpg"
+      }
+    }
+  },
+   "KRAW-020": {
+    "id": "KRAW-020",
+    "name": "Kaoru Ichijo - Policial corajoso",
+    "type": "Unidade",
+    "cost": 1,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Herói","Policial"],
+    "keywords": [],
+    "classe": ["Atirador"],
+    "universo": "Kamen Rider",
+    "rarity": "Comum",
+    "face": {
+      "front": {
+        "name": "Kaoru Ichijo - Policial corajoso",
+        "type": "Unidade",
+        "cost": 1,
+        "image": "https://i.pinimg.com/736x/07/10/dc/0710dc6e8a44a0793caad09d3ec7dc76.jpg"
+      }
+    }
+  },
+  "KRAW-021": {
+    "id": "KRAW-021",
+    "name": "Rising Kuuga - Espada dupla",
+    "type": "Unidade",
+    "cost": 7,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Terra","Herói","Kamen Rider","Titan Form","Yusuke Godai"],
+    "keywords": ["RAID","Impacto Nulo"],
+    "classe": ["Gladiador"],
+    "universo": "Kamen Rider",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Rising Kuuga - Espada dupla",
+        "type": "Unidade",
+        "cost": 7,
+        "image": "https://i.pinimg.com/736x/e8/a9/d2/e8a9d2694de369516fd7f3617317c8ff.jpg"
+      }
+    }
+  },
+  "KRAW-022": {
+    "id": "KRAW-022",
+    "name": "Rising Kuuga - Lança do dragão azul",
+    "type": "Unidade",
+    "cost": 6,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Aqua","Herói","Kamen Rider","Dragon Form","Yusuke Godai"],
+    "keywords": ["RAID","Impacto","Counter"],
+    "classe": ["Gladiador"],
+    "universo": "Kamen Rider",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Rising Kuuga - Lança do dragão azul",
+        "type": "Unidade",
+        "cost": 6,
+        "image": "https://i.pinimg.com/736x/62/00/f8/6200f8daeea5e33722aa547add704e11.jpg"
+      }
+    }
+  },
+  "KRAW-023": {
+    "id": "KRAW-023",
+    "name": "Rising Kuuga - Chute explosivo",
+    "type": "Unidade",
+    "cost": 7,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Piro","Herói","Kamen Rider","Mighty Form","Yusuke Godai"],
+    "keywords": ["RAID","Impacto"],
+    "classe": ["Lutador"],
+    "universo": "Kamen Rider",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Rising Kuuga - Chute explosivo",
+        "type": "Unidade",
+        "cost": 7,
+        "image": "https://i.pinimg.com/736x/ec/aa/34/ecaa34a881b312023af9b960ce7ae70e.jpg"
+      }
+    }
+  },
+  "KRAW-024": {
+    "id": "KRAW-024",
+    "name": "Amazing Mighty Kuuga - Ódio consumindo o herói",
+    "type": "Unidade Especial",
+    "cost": 8,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Piro","Herói","Kamen Rider","Yusuke Godai"],
+    "keywords": [],
+    "classe": ["Lutador"],
+    "universo": "Kamen Rider",
+    "rarity": "Super Raro",
+    "face": {
+      "front": {
+        "name": "Amazing Mighty Kuuga - Ódio consumindo o herói",
+        "type": "Unidade",
+        "cost": 8,
+        "image": "https://i.pinimg.com/736x/a8/83/65/a88365f8a126ddbd3963f0e0929d7795.jpg"
+      }
+    }
+  },
+   "KRAW-025": {
+    "id": "KRAW-025",
+    "name": "Trocar de forma",
+    "type": "Evento",
+    "cost": 3,
+    "traits": ["Humano", "Coração Puro"],
+    "tags": ["Ação","Kamen Rider","Kuuga"],
+    "keywords": [],
+    "universo": "Kamen Rider",
+    "rarity": "Incomum",
+    "face": {
+      "front": {
+        "name": "Trocar de forma",
+        "type": "Evento",
+        "cost": 3,
+        "image": "https://i.pinimg.com/736x/f3/8c/1e/f38c1e0695055e32dd93534b6ac452ab.jpg"
+      }
+    }
+  }
+}
