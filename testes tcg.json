@@ -199,11 +199,9 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-
             "noAutoPayTo": false,
             "isGroupForbidden": false,
             "isHorizontalAllowed": true,
-
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -216,11 +214,9 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-
             "noAutoPayTo": true,
             "isGroupForbidden": false,
             "isHorizontalAllowed": true,
-
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -233,11 +229,9 @@
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
-
             "noAutoPayTo": false,
             "isGroupForbidden": false,
             "isHorizontalAllowed": true,
-
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -261,24 +255,6 @@
             "enterSpun": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
-          },
-
-          "Stack": {
-            "isDefaultSection": true,
-            "title": "Stack",
-            "isHidden": "no",
-            "height": "HUGE",
-            "alignment": "NONE",
-            "isHorizontalAllowed": false,
-            "isGroupForbidden": true,
-            "displayedTitle": "Pile",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
           }
         }
       }
@@ -286,7 +262,7 @@
   },
 
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/jvquirinobr/testes/refs/heads/main/cardlist%20tester",
+    "dataUrl": "https://raw.githubusercontent.com/jvquirinobr/NexusTCG/refs/heads/main/cards.json",
     "cardBack": "https://cdn.uploaded.photo/2026/08/17/BackArt.png"
   }
 }
