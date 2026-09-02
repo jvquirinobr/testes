@@ -286,7 +286,7 @@
   },
 
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/jvquirinobr/NexusTCG/refs/heads/main/cards.json",
+    "dataUrl": "https://raw.githubusercontent.com/jvquirinobr/testes/refs/heads/main/cardlist%20tester",
     "cardBack": "https://cdn.uploaded.photo/2026/08/17/BackArt.png"
   }
 }
